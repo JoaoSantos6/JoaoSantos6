@@ -1,7 +1,7 @@
 ## Prazer, eu sou o João Vitor!
 
 - 💼 **Profissão**: Dev Junior na empresa VoxAge Teleinformática Ltda
-- 📚 **Curso**: Bacharelado Interdisciplinar em Tecnologia e Ciência da Computação na Universidade Federal do ABC
+- 📚 **Curso**: Bacharelado Ciência da Computação e Bacharelado Interdisciplinar em Tecnologia na Universidade Federal do ABC
 - 👨‍💻 **Estudos**: Estou estudando atualmente JavaScript and Asterisk
 
 <div>
