@@ -1,8 +1,8 @@
 ## Prazer, eu sou o João Vitor!
 
-- 💼 **Profissão**: Dev Junior na empresa VoxAge Teleinformática Ltda
+- 💼 **Profissão**: Dev Junior na empresa 2CX Callflex+Voxage
 - 📚 **Curso**: Bacharelado Ciência da Computação e Bacharelado Interdisciplinar em Tecnologia na Universidade Federal do ABC
-- 👨‍💻 **Estudos**: Estou estudando atualmente JavaScript and Asterisk
+- 👨‍💻 **Estudos**: Estou estudando atualmente JavaScript e Asterisk
 
 <div>
   <a href = "https://beacons.ai/JoaoSantos6">
