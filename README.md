@@ -2,7 +2,7 @@
 
 - 💼 **Profissão**: Dev Junior na empresa 2CX Callflex+Voxage
 - 📚 **Curso**: Bacharelado Ciência da Computação e Bacharelado Interdisciplinar em Tecnologia na Universidade Federal do ABC
-- 👨‍💻 **Estudos**: Estou estudando atualmente JavaScript e Asterisk
+- 👨‍💻 **Estudos**: Estou estudando atualmente NodeJS e PHP com Design Patterns
 
 <div>
   <a href = "https://beacons.ai/JoaoSantos6">
@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Jotta-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Jotta-Ja" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Jotta-Ja" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/lua.svg">
   <img align="center" alt="Jotta-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
   <img align="center" alt="Jotta-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Jotta-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
