@@ -1,8 +1,7 @@
 ## Prazer, eu sou o João Vitor!
 
-- 💼 **Profissão**: Dev Pleno na empresa 2CX Callflex+Voxage
-- 📚 **Curso**: Bacharelado Ciência da Computação e Bacharelado Interdisciplinar em Tecnologia na Universidade Federal do ABC
-- 👨‍💻 **Estudos**: Estou estudando atualmente Microservices com SpringBoot + RabbitMQ e PHP com Design Patterns
+- 💼 **Profissão**: Software Engineer @ Serasa Experian
+- 👨‍💻 **Estudos**: Estou estudando atualmente Microservices com Golang e AI Harness Engineering
 
 <div>
   <a href = "https://beacons.ai/JoaoSantos6">
