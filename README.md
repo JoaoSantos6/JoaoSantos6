@@ -2,7 +2,7 @@
 
 - 💼 **Profissão**: Software Engineer @ Serasa Experian
 - 👨‍💻 **Estudos**: Estou estudando atualmente Microservices com Golang e AI Harness Engineering
-- 
+  
 
 <div style="display: inline_block"><br>
 
